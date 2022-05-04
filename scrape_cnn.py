@@ -10,6 +10,7 @@ Authors:
 URLs:
 - https://edition.cnn.com/travel/article/scenic-airport-landings-2020/index.html
 - https://edition.cnn.com/travel/article/new-maldives-luxury-resorts-spc-intl/index.html
+- https://edition.cnn.com/travel/article/saf-jet-fuel-green/index.html
 '''
 import requests as req
 import sys

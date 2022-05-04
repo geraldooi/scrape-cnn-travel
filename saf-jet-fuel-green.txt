@@ -1,0 +1,40 @@
+Call to Earth
+Green jet fuel is here -- so why are airlines not using it?
+Jacopo Prisco
+26th April 2022
+(CNN) — There is a small chance that your next flight will be powered, at least in part, by used cooking oils or agricultural waste.
+These are among the ingredients of SAF -- Sustainable Aviation Fuel -- a new type of jet fuel that promises to curb carbon emissions by 80% on average, according to IATA, the International Air Transport Association.
+The first commercial flights using SAF took off in 2011, and it has since grown to become a key element in making air transport more sustainable.
+The aviation industry has pledged that, by 2050, its global carbon emissions will be half that of what they were in 2005. It then hopes to reach net zero, or the complete absence of emissions, as early as a decade after that. That's an extremely ambitious plan, and one in which SAF accounts for 50% to 75% of the total reduction in emissions, depending on the different scenarios that can play out between now and then.
+And yet in 2019 -- the last year of business as usual before the pandemic -- SAF accounted for just 0.1% of all jet fuel used worldwide, according to the World Economic Forum. So why aren't airlines using more of it?
+Scaling up
+SAF is a "drop in" fuel, which means it can be used now, in existing aircraft, with little or no modifications.
+"This is critical and very beneficial for the aviation industry, because there is no need to invest in new infrastructure or new aircraft, and it's great for airports too, because they can use the same storage and fueling infrastructure -- from that perspective, SAF is excellent," says Andreas Schafer, a professor of energy and transport at University College London.
+In its bid to become more sustainable, aviation is also looking at next-generation technologies like hydrogen and electric-powered flight, but these require transformational changes that are still many years away. As Boeing's CEO David Calhoun put it, SAF is "the only answer between now and 2050."
+SAF has a low carbon footprint because it's made from waste products, where the carbon has already been emitted, or from plants that use up CO2 to grow.
+The problem is that it's currently much more expensive to produce than regular jet fuel, even with today's elevated oil prices.
+"There's no real business case for the sector to invest in it at the moment," explains Schafer, meaning that airlines have no incentive to use SAF other than to reduce emissions -- but at current prices and amidst a global crisis brought on by Covid, that is a luxury they can't afford.
+To make the price go down, production needs to ramp up significantly and new types of SAF must come to the market.
+Today, most SAF comes in the form of biofuel produced from waste fats such as used cooking oil, or from oil trees purposely grown on degraded land. However, there is not enough of these raw materials right now to supply the industry at a meaningful scale.
+Powered by trash
+In the near future, higher-cost biofuel could be produced from agricultural waste products, such as plant stems or husks, and residues from wood processing, as well as non-edible plants grown on purpose like miscanthus, similar to bamboo.
+Even municipal waste, the household trash that often goes to landfill, has the potential to be turned into SAF.
+Finally, further ahead, we will be able to make another type of SAF called "power to liquid." This method uses renewable energy to extract hydrogen from water and then mix it with CO2 taken directly from the air. The result is a synthetic liquid fuel that is carbon neutral and comes in a potentially endless supply -- enough to satisfy the demand of the entire aviation industry.
+According to a cost analysis run by Schafer and his team, current SAF made from waste oils costs at least 50% more than regular jet fuel.
+The second type, the higher-cost biofuel, can go for up to three times as much, and the "power to liquid" one comes at nearly four times the price of jet fuel. And that's based on oil prices of $100 per barrel -- the difference will only increase if oil prices go back to lower levels.
+How can we bring these costs down?
+"We need to expand the production of low-cost biofuels and then invest into the production of high-cost ones and power to liquid," says Schafer.
+"Several thousand production plants need to be built. And that's not all, because you need the renewable power generation infrastructure for power to liquid. And that's gigantic: half the electricity produced today globally would be required for the aviation sector in 2050. So the scale is enormous, and we better get started soon."
+A challenging future
+The first commercial flight that used a blend of biofuels and regular jet fuel was operated by KLM in 2011, but test flights date back to 2008, with Virgin Atlantic and Air New Zealand among the earliest adopters.
+Since then, many major airlines have used SAF in commercial flights, including SAS, Lufthansa, Qantas, Alaska and United, among others: according to IATA, over 370,000 flights with SAF in the fuel mix have taken off since 2016 alone. Aircraft and engine manufacturers are also conducting tests, signaling a global interest. In March 2022, for example, Airbus flew an A380 for three hours powering one of its Rolls-Royce engines entirely with SAF made from cooking oil and other waste fats.
+However, progress has slowed down due to the pandemic, and the industry's pre-Covid goal of reaching 2% use of SAF by 2025 -- from 0.1% in 2019 -- now seems doubtful.
+"We're certainly behind the 2025 goal and I think it's unlikely that we'll get there naturally," says Glenn McDonald, an aviation analyst at Aerodynamic Advisory, suggesting that outside intervention is needed to make SAF more attractive, either via subsidies that make it cheaper or via a carbon tax that makes traditional jet fuel more expensive.
+It doesn't help that aviation is a global and fragmented industry with rules and regulations that vary from one country to the next. It's likely that progress will be uneven: Norway, for example, has mandated since 2020 that 0.5% of all jet fuel used domestically must be SAF, a share that must grow to 30% by 2030.
+Preference shift
+According to McDonald, there are encouraging signs.
+"Airlines are starting to take it more seriously because they see a shift in consumer preferences, especially among younger travelers, and they know they will have to meet these goals in order to be a viable industry in the 2050s," he says.
+"A common refrain we hear in the aerospace and aviation sector is that we don't want to become the new tobacco industry, where the business model isn't aligned with public policy and consumer attitudes."
+For passengers, the shift to SAF might be entirely unnoticeable, because no visible aspect of a flight is affected by the change in fuel.
+However, as airlines feel more pressure to use SAF before its cost aligns with regular jet fuel -- no sooner than the 2030s according to the World Economic Forum -- they might offload some of the costs on passengers, resulting in an increase in fares of up to 15%, according to Schafer.
+"From a consumer perspective, that's not much, but from an airline perspective, it can be, because the profitability of airlines is typically well below 15%. So this will cause more restructuring in the market."
