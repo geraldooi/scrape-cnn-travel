@@ -73,7 +73,8 @@ if __name__ == '__main__':
   # scrape cnn article from the url given
   results = scrape_cnn(url)
 
+
   # write result to txt file if results not null
   if results is not None:
-    with open(f'{output_filename}.txt', 'w') as f:
+    with open(f'{output_filename}.txt', 'w', encoding='utf-8') as f:
       f.write('\n'.join(map(lambda x: str(x), results)))
